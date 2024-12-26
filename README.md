@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**Dectem-221/Dectem-221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a senior full-stack developer with 8+ years of experience working developing 37 projects and I'm a fan of test-driven, high quality project.
 I can develop your project wonderfully in short time.
 So I look forward to work with you very much.
